@@ -1,0 +1,8 @@
+.vscode
+node_modules/
+res/
+coverage/
+src/
+tinypng-tokens.json
+lib/__tests__
+__mocks__
